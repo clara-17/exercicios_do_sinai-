@@ -1,0 +1,7 @@
+carro=input("digita o nome do carro:")
+valor=input("digita o valor do carro:")
+consumo=input("consumo km por litro:")
+print("")
+print("carro" ,carro)
+print("valor" , valor)
+print("consumo" , consumo)
